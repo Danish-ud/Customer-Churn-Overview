@@ -1,0 +1,497 @@
+customer_id,gender,senior_citizens,partner,dependents,contract_type,monthly_charges,total_charges,active_months,total_gb_used,total_minutes_used,churn_flag
+CUST0001,Male,No,No,Yes,"Two year",118.32,5561.04,4,332.31,19026,True
+CUST0002,Female,No,Yes,No,"Two year",53.09,637.08,10,2514.78,68958,False
+CUST0003,Male,No,Yes,No,"One year",88.88,5510.56,12,2311.71,81813,False
+CUST0004,Male,Yes,Yes,Yes,"Two year",47.83,382.64,4,1576.35,34950,False
+CUST0005,Male,No,Yes,Yes,"One year",80.88,1698.48,4,1569.57,46464,False
+CUST0006,Female,No,Yes,Yes,"One year",71.75,5022.5,12,2780.13,79428,True
+CUST0007,Male,Yes,No,No,"One year",117.48,2937,2,805.32,16272,False
+CUST0008,Male,No,Yes,No,"One year",84.77,1017.24,9,3084.24,69228,True
+CUST0009,Male,Yes,No,No,Month-to-month,61.46,921.9,5,659.52,11163,False
+CUST0010,Female,Yes,No,No,"One year",40.27,2375.93,1,266.7,9954,False
+CUST0011,Male,No,Yes,Yes,"Two year",43.61,1133.86,9,2812.02,81810,False
+CUST0012,Male,Yes,Yes,Yes,Month-to-month,50.28,1307.28,3,866.01,24222,True
+CUST0013,Male,No,No,Yes,"Two year",52.59,2471.73,10,3554.16,84066,False
+CUST0014,Male,Yes,Yes,Yes,Month-to-month,106.56,3409.92,6,1220.7,41124,False
+CUST0015,Female,Yes,Yes,No,"One year",80.51,805.1,11,1368.84,36612,False
+CUST0016,Male,No,No,No,Month-to-month,77.11,1233.76,9,3514.17,100920,False
+CUST0017,Female,Yes,No,Yes,Month-to-month,40.33,2863.43,4,1042.86,30381,True
+CUST0018,Female,Yes,Yes,Yes,"Two year",107.41,1825.97,6,2227.2,50406,False
+CUST0019,Female,Yes,No,No,"Two year",95.05,2186.15,5,1180.44,29238,False
+CUST0020,Male,Yes,Yes,Yes,"One year",36.09,938.34,8,2716.83,64389,False
+CUST0021,Female,Yes,Yes,No,Month-to-month,93.71,655.97,9,3644.16,88014,False
+CUST0022,Male,No,Yes,Yes,Month-to-month,78.92,1104.88,9,882.54,34320,True
+CUST0023,Female,Yes,No,Yes,Month-to-month,37.36,261.52,7,2763.18,70626,True
+CUST0024,Female,No,No,Yes,"One year",71.25,641.25,9,3562.68,100953,False
+CUST0025,Female,Yes,No,Yes,"One year",73.62,3533.76,6,2144.91,54594,False
+CUST0026,Female,No,No,Yes,"One year",44.92,2650.28,3,1153.62,33081,False
+CUST0027,Female,No,No,Yes,"One year",115.11,4489.29,7,2858.76,67860,False
+CUST0028,Female,Yes,Yes,Yes,"One year",106.5,1917,6,1665.93,35253,False
+CUST0029,Female,Yes,Yes,No,"Two year",90.21,5322.39,8,2959.17,81291,False
+CUST0030,Female,Yes,Yes,No,Month-to-month,71.61,1217.37,12,4531.71,109701,False
+CUST0031,Male,No,Yes,No,Month-to-month,67.06,938.84,7,1982.34,50379,True
+CUST0032,Male,Yes,No,No,Month-to-month,88.59,2746.29,11,2591.07,62289,False
+CUST0033,Female,No,Yes,No,Month-to-month,79.09,1898.16,8,1104.21,26910,False
+CUST0034,Female,No,No,Yes,Month-to-month,35.6,2136,5,2162.1,41877,False
+CUST0035,Female,No,Yes,Yes,Month-to-month,76.13,3425.85,12,4813.68,114627,True
+CUST0036,Male,Yes,No,No,Month-to-month,102.58,307.74,3,1002.09,36384,False
+CUST0037,Female,Yes,No,Yes,Month-to-month,71.33,2639.21,3,929.61,14433,False
+CUST0038,Male,No,Yes,No,"Two year",34.68,1491.24,5,996.99,35295,False
+CUST0039,Male,No,Yes,No,Month-to-month,100.77,4030.8,10,3509.79,90117,False
+CUST0040,Male,Yes,Yes,Yes,"Two year",48.12,2646.6,10,2418.54,53532,False
+CUST0041,Male,No,Yes,Yes,"One year",53.28,2077.92,12,4284.12,113079,False
+CUST0042,Male,Yes,No,Yes,Month-to-month,44.82,672.3,5,2088.15,47385,False
+CUST0043,Female,No,Yes,No,"One year",59.72,238.88,7,2833.23,60090,False
+CUST0044,Female,Yes,Yes,Yes,"One year",98.11,2452.75,12,1577.52,37293,False
+CUST0045,Female,No,No,No,"One year",76.74,997.62,8,2344.05,61107,False
+CUST0046,Female,Yes,Yes,No,"Two year",48.44,1598.52,6,2022.93,53031,False
+CUST0047,Female,No,Yes,No,"One year",109,1744,1,268.26,1500,False
+CUST0048,Male,Yes,Yes,Yes,"One year",109.16,4584.72,10,3675.99,106278,False
+CUST0049,Female,Yes,Yes,Yes,"One year",108.35,7151.1,10,3937.53,87945,False
+CUST0050,Female,No,Yes,No,Month-to-month,51.49,2831.95,12,3035.19,66162,False
+CUST0051,Male,No,No,Yes,Month-to-month,70.61,2965.62,9,3075.06,87768,False
+CUST0052,Female,Yes,Yes,Yes,"Two year",118.65,4034.1,4,972.21,17091,False
+CUST0053,Male,No,Yes,Yes,"Two year",99.48,2984.4,8,3206.82,85533,False
+CUST0054,Female,Yes,Yes,No,Month-to-month,32.45,421.85,4,1244.61,46248,True
+CUST0055,Male,No,Yes,No,"Two year",35.87,466.31,7,2949.36,59658,False
+CUST0056,Female,Yes,Yes,Yes,Month-to-month,71.75,1291.5,2,532.86,11763,False
+CUST0057,Female,Yes,No,No,"One year",111.83,3578.56,4,1520.07,33594,False
+CUST0058,Male,Yes,Yes,Yes,"One year",78.48,3060.72,10,3183.69,96489,False
+CUST0059,Male,Yes,No,Yes,"Two year",74.8,3440.8,11,2748.9,88233,True
+CUST0060,Male,Yes,No,Yes,Month-to-month,39.49,1145.21,7,2027.79,43197,False
+CUST0061,Male,Yes,Yes,Yes,Month-to-month,89.11,5524.82,10,2733.15,100128,False
+CUST0062,Male,No,Yes,No,"Two year",103.99,6447.38,11,4000.32,101376,False
+CUST0063,Male,No,Yes,No,Month-to-month,64.24,3661.68,10,3111.09,90957,False
+CUST0064,Male,No,Yes,No,"One year",99.81,1596.96,2,167.67,5601,False
+CUST0065,Male,Yes,No,Yes,"Two year",116.8,6540.8,2,389.52,13086,False
+CUST0066,Female,Yes,Yes,Yes,"Two year",48.34,483.4,3,1275.33,20319,False
+CUST0067,Female,Yes,Yes,Yes,Month-to-month,77.1,2313,12,4805.79,110586,True
+CUST0068,Male,Yes,Yes,No,"Two year",55.84,1396,11,4284.48,93546,True
+CUST0069,Female,No,Yes,Yes,Month-to-month,101.36,506.8,2,343.29,12102,False
+CUST0070,Female,No,Yes,No,Month-to-month,81.98,5328.7,7,652.2,25044,True
+CUST0071,Female,Yes,Yes,No,Month-to-month,87.11,4268.39,2,669.6,13581,True
+CUST0072,Female,No,No,No,Month-to-month,101.81,305.43,12,4691.43,110883,True
+CUST0073,Male,No,No,No,Month-to-month,65.64,2953.8,1,520.14,15393,False
+CUST0074,Female,Yes,Yes,No,"Two year",112.36,1573.04,11,2377.53,74655,False
+CUST0075,Male,No,Yes,No,"One year",77.97,2339.1,10,3131.88,106695,False
+CUST0076,Female,Yes,Yes,Yes,"One year",44.22,3006.96,7,1445.13,42384,True
+CUST0077,Female,No,No,Yes,"Two year",92.63,1667.34,3,482.88,18183,False
+CUST0078,Female,Yes,Yes,No,"Two year",101.39,6286.18,12,4415.37,118956,False
+CUST0079,Male,Yes,No,No,"One year",58.51,2164.87,3,1178.82,23343,True
+CUST0080,Female,Yes,Yes,Yes,"One year",107.15,2678.75,10,2627.01,79614,False
+CUST0081,Male,Yes,Yes,No,"One year",111.55,5354.4,6,2204.19,49647,False
+CUST0082,Female,No,Yes,No,"One year",54.92,3569.8,11,2441.19,59526,False
+CUST0083,Male,Yes,Yes,Yes,"One year",118.52,6281.56,8,2813.34,79710,False
+CUST0084,Female,Yes,No,No,Month-to-month,42.66,639.9,5,2089.35,46905,False
+CUST0085,Male,Yes,No,No,"Two year",48.18,2360.82,11,2837.61,67302,True
+CUST0086,Male,No,Yes,No,Month-to-month,46.58,3167.44,7,663.39,21633,False
+CUST0087,Female,Yes,Yes,Yes,"One year",110.46,1325.52,1,168.21,4554,False
+CUST0088,Male,No,No,Yes,"One year",88.89,5244.51,7,720.57,25680,False
+CUST0089,Female,Yes,No,Yes,"One year",43.69,1616.53,1,423.75,6402,False
+CUST0090,Female,No,No,No,Month-to-month,69.63,4247.43,12,4715.94,112488,False
+CUST0091,Female,No,No,No,Month-to-month,85.38,3671.34,2,630.39,20274,False
+CUST0092,Female,Yes,Yes,Yes,"One year",37.51,2625.7,8,1189.95,22128,False
+CUST0093,Female,No,No,No,Month-to-month,109.42,4267.38,9,1175.07,24330,False
+CUST0094,Female,Yes,Yes,No,Month-to-month,102.32,5729.92,7,2361.24,67665,False
+CUST0095,Female,Yes,No,No,"One year",75.47,4754.61,8,2816.25,64836,False
+CUST0096,Female,Yes,No,No,Month-to-month,117.04,5383.84,10,3512.49,105645,False
+CUST0097,Female,No,No,No,"Two year",67.6,743.6,12,4026.63,102948,True
+CUST0098,Female,No,No,Yes,"Two year",118.57,7351.34,4,592.68,25098,False
+CUST0099,Female,Yes,No,No,"Two year",90.11,2252.75,3,1241.1,29703,False
+CUST0100,Male,Yes,Yes,Yes,"Two year",87.12,6185.52,9,2164.29,66276,True
+CUST0101,Male,No,Yes,No,"One year",44.94,2336.88,9,3071.58,91308,False
+CUST0102,Female,Yes,No,Yes,"One year",109.37,437.48,10,3665.25,95760,False
+CUST0103,Female,Yes,No,No,"One year",68.47,4039.73,11,2683.11,78474,False
+CUST0104,Female,Yes,Yes,Yes,"Two year",44.6,892,5,1314.3,33798,False
+CUST0105,Female,No,No,No,"Two year",31.13,1961.19,4,1271.43,36774,False
+CUST0106,Female,No,No,Yes,Month-to-month,80.38,4340.52,1,212.43,4707,False
+CUST0107,Female,No,Yes,No,Month-to-month,77.47,4415.79,11,4501.98,117465,False
+CUST0108,Female,Yes,No,Yes,"Two year",94.74,3884.34,7,2535.51,78192,False
+CUST0109,Female,Yes,No,No,"Two year",110.12,330.36,9,2385.33,62724,False
+CUST0110,Male,Yes,Yes,Yes,"Two year",37.15,222.9,10,3771.66,95376,True
+CUST0111,Female,No,Yes,Yes,"Two year",95.83,479.15,7,2043.72,68058,True
+CUST0112,Male,Yes,Yes,No,Month-to-month,46.87,234.35,7,843.57,17496,False
+CUST0113,Female,Yes,No,No,"Two year",107.24,5790.96,4,1889.91,31761,True
+CUST0114,Female,Yes,Yes,Yes,Month-to-month,103.72,4874.84,8,3292.2,72858,False
+CUST0115,Male,Yes,Yes,No,"Two year",78.67,3854.83,7,570.45,24009,False
+CUST0116,Female,No,Yes,Yes,"Two year",93.92,845.28,9,2874.63,64149,False
+CUST0117,Male,No,Yes,Yes,"Two year",58.29,1165.8,11,3976.56,82623,True
+CUST0118,Female,Yes,Yes,Yes,Month-to-month,72.41,4417.01,2,512.91,21681,True
+CUST0119,Female,No,Yes,No,Month-to-month,103.95,3638.25,1,122.67,1983,True
+CUST0120,Male,No,No,Yes,"One year",71.33,3566.5,11,2555.46,90618,False
+CUST0121,Female,Yes,No,Yes,"Two year",62.2,3856.4,9,1163.22,15642,False
+CUST0122,Male,Yes,Yes,No,"One year",74.48,1266.16,12,4179.9,109629,True
+CUST0123,Female,No,Yes,No,"One year",104.54,313.62,1,176.31,5853,False
+CUST0124,Male,Yes,Yes,No,Month-to-month,60.17,1925.44,5,1580.4,39171,False
+CUST0125,Male,No,No,No,Month-to-month,45.64,593.32,3,1396.86,29589,False
+CUST0126,Female,Yes,No,Yes,"One year",94.08,6397.44,1,432.48,6990,True
+CUST0127,Female,No,No,Yes,"Two year",104.34,1460.76,1,351,8910,False
+CUST0128,Male,Yes,No,Yes,Month-to-month,39.06,429.66,1,401.55,10932,False
+CUST0129,Female,No,No,Yes,"Two year",51.59,2889.04,1,161.13,10347,False
+CUST0130,Female,No,No,No,"Two year",42.78,2866.26,3,1046.97,24216,True
+CUST0131,Female,No,No,Yes,"One year",61.31,1777.99,12,3245.37,75732,True
+CUST0132,Male,Yes,No,Yes,"One year",70.53,634.77,3,934.11,11853,False
+CUST0133,Male,No,No,No,"One year",97.39,6525.13,1,124.11,11223,True
+CUST0134,Male,No,Yes,Yes,"One year",88.6,2215,10,1621.38,19584,False
+CUST0135,Male,Yes,Yes,Yes,Month-to-month,85.88,3606.96,8,2929.65,87051,False
+CUST0136,Male,Yes,Yes,Yes,Month-to-month,61.71,555.39,3,1121.94,25848,False
+CUST0137,Male,No,Yes,Yes,"One year",105.73,4229.2,9,3308.52,103563,False
+CUST0138,Male,No,No,Yes,Month-to-month,72.42,1810.5,8,2467.53,47352,False
+CUST0139,Male,Yes,No,Yes,"One year",118.12,590.6,1,214.74,10344,False
+CUST0140,Male,Yes,Yes,No,"Two year",87.07,957.77,3,696.27,17184,False
+CUST0141,Female,Yes,No,No,"Two year",41.36,2440.24,4,1058.97,25200,False
+CUST0142,Male,Yes,Yes,Yes,"Two year",90.86,3452.68,7,1702.29,48090,False
+CUST0143,Female,Yes,No,Yes,"One year",59.26,296.3,6,1052.37,31797,False
+CUST0144,Female,No,Yes,No,"Two year",91.77,4404.96,6,1840.32,39378,False
+CUST0145,Female,Yes,No,Yes,Month-to-month,36.27,652.86,1,160.08,9798,False
+CUST0146,Male,No,No,Yes,"Two year",45.74,3201.8,10,1268.67,33867,True
+CUST0147,Male,No,Yes,Yes,"Two year",107.02,3959.74,12,4543.23,125592,False
+CUST0148,Male,No,No,No,"Two year",50.45,3027,2,438.48,12468,True
+CUST0149,Male,Yes,Yes,Yes,Month-to-month,105.33,5055.84,11,3392.58,83868,False
+CUST0150,Female,No,Yes,No,"One year",55.13,1543.64,3,704.22,24957,False
+CUST0151,Male,No,Yes,Yes,Month-to-month,87.86,6062.34,1,173.82,3120,True
+CUST0152,Male,Yes,Yes,No,"One year",92.47,3698.8,11,4230.36,97506,True
+CUST0153,Male,No,No,No,"One year",76.14,3426.3,10,986.67,32274,False
+CUST0154,Male,No,No,Yes,"Two year",57.48,3563.76,10,4241.22,99324,False
+CUST0155,Male,Yes,No,No,"One year",49.14,2850.12,9,923.94,36627,False
+CUST0156,Female,No,Yes,Yes,Month-to-month,32.99,2210.33,3,1050.24,37092,False
+CUST0157,Male,No,No,No,Month-to-month,57.36,3212.16,4,864.87,23769,False
+CUST0158,Female,No,Yes,Yes,"One year",88.78,3551.2,7,2051.79,46227,True
+CUST0159,Male,Yes,No,Yes,"Two year",114.45,4578,12,4298.34,99162,False
+CUST0160,Female,Yes,No,No,"Two year",108.41,3577.53,8,899.13,25614,False
+CUST0161,Male,Yes,No,Yes,Month-to-month,98.95,593.7,3,871.74,26838,False
+CUST0162,Male,No,Yes,Yes,"Two year",100.96,1918.24,9,3409.56,83571,True
+CUST0163,Female,No,No,No,"One year",89.85,3594,1,319.65,8616,False
+CUST0164,Female,Yes,No,Yes,"One year",53.43,3152.37,6,1791.09,55098,False
+CUST0165,Female,No,Yes,Yes,Month-to-month,111.65,6587.35,8,2600.88,73461,False
+CUST0166,Male,No,No,No,"One year",90.37,4337.76,12,4387.14,106431,False
+CUST0167,Female,Yes,Yes,No,Month-to-month,80.44,3298.04,11,2823.84,58896,True
+CUST0168,Male,Yes,No,Yes,"One year",39.99,519.87,12,4289.31,121839,False
+CUST0169,Male,No,Yes,Yes,Month-to-month,70.23,3160.35,11,4033.35,100674,True
+CUST0170,Female,No,Yes,No,"Two year",71.43,3785.79,8,2989.74,65634,False
+CUST0171,Female,No,No,No,"One year",107.81,4528.02,5,1176.66,24075,False
+CUST0172,Male,Yes,Yes,Yes,"One year",79.2,4989.6,4,937.02,24045,False
+CUST0173,Male,Yes,Yes,No,Month-to-month,64.24,1734.48,4,1597.62,39786,True
+CUST0174,Female,Yes,Yes,Yes,Month-to-month,117.91,4480.58,11,4332.3,92823,False
+CUST0175,Female,Yes,Yes,Yes,"One year",39.96,2397.6,10,3359.67,93759,False
+CUST0176,Female,No,Yes,Yes,Month-to-month,68.03,476.21,2,784.8,23523,False
+CUST0177,Male,Yes,Yes,Yes,"One year",33.78,168.9,1,188.31,5352,True
+CUST0178,Male,Yes,No,Yes,"Two year",96.59,4346.55,6,1137.66,35346,False
+CUST0179,Male,Yes,Yes,No,Month-to-month,112.63,6532.54,11,4160.1,102099,False
+CUST0180,Male,Yes,Yes,No,"One year",55.2,1711.2,6,1979.94,52137,False
+CUST0181,Male,Yes,No,No,"Two year",107.25,2466.75,7,1746.36,35952,False
+CUST0182,Male,No,No,No,"Two year",56.3,2364.6,9,2417.01,93249,False
+CUST0183,Female,No,No,Yes,"One year",111.97,1119.7,5,1061.13,32259,True
+CUST0184,Male,Yes,No,Yes,Month-to-month,97.86,3131.52,11,2311.65,56544,False
+CUST0185,Male,No,No,Yes,"One year",102.44,5429.32,7,852.21,24450,False
+CUST0186,Male,Yes,No,Yes,"Two year",31.62,948.6,2,720.3,16818,False
+CUST0187,Female,Yes,No,No,"One year",116.65,4549.35,3,923.31,27279,False
+CUST0188,Male,No,Yes,Yes,Month-to-month,95.4,2957.4,2,634.11,11334,False
+CUST0189,Male,No,Yes,Yes,"Two year",57.43,114.86,8,1010.16,26091,False
+CUST0190,Female,Yes,No,No,"One year",104.65,1255.8,6,1276.59,37608,False
+CUST0191,Male,Yes,Yes,No,Month-to-month,55.34,2158.26,12,4159.83,119049,False
+CUST0192,Male,Yes,Yes,No,"Two year",108.55,7164.3,3,624.18,26814,False
+CUST0193,Male,No,Yes,No,Month-to-month,40.13,521.69,6,2297.13,60780,False
+CUST0194,Male,Yes,No,Yes,"Two year",93.33,4293.18,11,4367.22,106377,False
+CUST0195,Male,Yes,No,Yes,"One year",78.66,2123.82,1,484.23,6162,False
+CUST0196,Female,Yes,Yes,No,Month-to-month,38.69,657.73,11,3963,106344,True
+CUST0197,Female,No,No,Yes,"Two year",51.77,3106.2,8,2227.77,57039,False
+CUST0198,Female,Yes,Yes,Yes,Month-to-month,31.12,1991.68,3,1042.98,31518,False
+CUST0199,Male,Yes,Yes,Yes,Month-to-month,72.19,2526.65,6,1873.74,50331,False
+CUST0200,Male,No,Yes,No,"One year",57.11,3997.7,12,4617.48,121704,False
+CUST0201,Male,Yes,Yes,Yes,Month-to-month,83.85,2515.5,5,429.66,15024,True
+CUST0203,Male,No,No,Yes,"Two year",56.99,3590.37,5,1599.69,56271,False
+CUST0204,Male,Yes,No,Yes,"Two year",96.89,2712.92,9,3568.11,70440,True
+CUST0205,Female,No,Yes,Yes,"Two year",34.33,2059.8,3,477.66,24210,False
+CUST0206,Male,No,No,No,"One year",111.26,4116.62,8,2638.17,77706,False
+CUST0207,Female,Yes,Yes,Yes,Month-to-month,106.7,2347.4,9,1923.9,36348,False
+CUST0208,Female,Yes,No,No,"One year",90.1,6126.8,11,3559.65,115179,False
+CUST0209,Female,Yes,Yes,No,Month-to-month,83.39,1667.8,1,290.94,6921,False
+CUST0210,Male,Yes,Yes,No,Month-to-month,110.31,7501.08,3,635.97,29124,True
+CUST0211,Male,No,Yes,Yes,Month-to-month,46.68,2987.52,4,1288.17,27186,False
+CUST0212,Male,Yes,No,Yes,"One year",37.11,630.87,3,826.38,28032,True
+CUST0213,Male,No,No,Yes,Month-to-month,51.56,618.72,6,2250.66,57798,True
+CUST0214,Male,Yes,No,Yes,"One year",101.51,2233.22,6,1263.81,35724,False
+CUST0215,Male,Yes,No,No,"Two year",33.12,563.04,6,2462.97,66636,False
+CUST0216,Male,Yes,Yes,No,"Two year",82.45,824.5,3,946.62,28569,True
+CUST0217,Female,No,No,No,Month-to-month,119.59,7773.35,5,1363.2,24327,False
+CUST0218,Male,Yes,No,Yes,"One year",107.01,2354.22,10,2178.3,74193,True
+CUST0219,Female,Yes,Yes,No,"Two year",76.93,3846.5,3,1071.81,27666,False
+CUST0220,Male,Yes,Yes,Yes,"One year",35.73,500.22,1,421.5,8283,True
+CUST0221,Male,Yes,Yes,No,"One year",104.82,6708.48,11,2527.26,74736,False
+CUST0222,Male,No,No,Yes,Month-to-month,83.91,3943.77,3,466.08,10050,True
+CUST0223,Female,Yes,Yes,Yes,"Two year",40.34,1169.86,5,1966.23,43935,False
+CUST0224,Female,No,Yes,No,Month-to-month,38.45,1384.2,6,756.78,18021,False
+CUST0225,Female,No,Yes,No,Month-to-month,111.87,5817.24,7,2750.16,66159,False
+CUST0226,Female,No,No,No,"Two year",90.23,631.61,11,2790.06,75375,False
+CUST0227,Male,No,Yes,No,"Two year",104.64,3034.56,5,452.79,16842,False
+CUST0228,Female,No,No,Yes,"One year",109.11,1200.21,6,2226.96,52287,False
+CUST0229,Male,No,No,No,"Two year",81.46,2688.18,1,346.77,7317,False
+CUST0230,Male,Yes,Yes,No,"One year",76.57,459.42,10,3806.55,90819,False
+CUST0231,Female,No,Yes,No,"One year",68.74,2199.68,2,478.95,24363,False
+CUST0232,Female,No,No,Yes,"One year",58.53,2985.03,8,3083.16,85737,True
+CUST0233,Female,No,Yes,Yes,"Two year",69.11,4008.38,7,1895.37,42756,False
+CUST0234,Female,Yes,Yes,No,Month-to-month,99.65,2590.9,4,1293.27,41331,False
+CUST0235,Female,Yes,No,Yes,"One year",84.17,3871.82,10,3352.89,112887,True
+CUST0236,Female,No,No,No,Month-to-month,110.33,3199.57,4,1539.96,28311,False
+CUST0237,Female,Yes,Yes,Yes,Month-to-month,69.9,279.6,1,261.69,5178,False
+CUST0238,Female,No,No,Yes,"Two year",84.64,1100.32,4,1500.27,41625,False
+CUST0239,Male,No,Yes,Yes,Month-to-month,86.82,3385.98,1,459.21,11340,False
+CUST0240,Female,Yes,Yes,Yes,Month-to-month,83.25,1248.75,7,2467.8,67566,False
+CUST0241,Female,No,Yes,No,"Two year",93.24,2703.96,9,2062.29,65106,False
+CUST0242,Male,Yes,No,No,"One year",51.37,1489.73,11,4010.46,127305,False
+CUST0243,Female,Yes,Yes,No,Month-to-month,76.11,2435.52,12,4279.83,105021,True
+CUST0244,Male,No,Yes,Yes,"Two year",39.38,78.76,1,226.53,9672,False
+CUST0245,Male,No,Yes,No,Month-to-month,64.61,3036.67,7,1929.27,47163,True
+CUST0246,Female,Yes,No,No,Month-to-month,73.89,1625.58,9,3515.88,74775,False
+CUST0247,Male,No,No,No,"One year",88.7,2394.9,8,2905.95,81219,False
+CUST0248,Male,No,No,Yes,Month-to-month,115.55,7741.85,7,2663.46,68145,False
+CUST0249,Male,No,No,Yes,"Two year",84.06,4707.36,9,3895.35,90033,False
+CUST0251,Female,Yes,Yes,No,"One year",75.56,3551.32,1,310.59,5076,False
+CUST0252,Male,No,No,No,"One year",87.07,5137.13,8,1848.54,57147,True
+CUST0253,Female,Yes,No,No,"Two year",36.38,218.28,6,1195.86,43065,False
+CUST0254,Male,Yes,No,Yes,"One year",52.9,1005.1,8,1402.08,27693,False
+CUST0255,Male,Yes,Yes,Yes,Month-to-month,62.57,3566.49,5,1334.31,34224,False
+CUST0256,Male,Yes,No,No,"One year",72.52,5003.88,3,789.99,25746,False
+CUST0257,Male,Yes,No,Yes,"Two year",34.11,102.33,4,1475.82,38481,False
+CUST0258,Female,No,Yes,Yes,"One year",42.6,42.6,4,1189.77,23481,False
+CUST0259,Female,No,No,Yes,"One year",54.91,3184.78,1,274.95,8496,False
+CUST0260,Male,No,Yes,Yes,"One year",117.44,4462.72,6,2100.96,48012,False
+CUST0261,Male,Yes,Yes,No,"Two year",59.82,897.3,3,995.37,37050,False
+CUST0262,Female,Yes,Yes,Yes,"One year",73.38,2494.92,2,886.41,19818,False
+CUST0263,Male,No,Yes,Yes,"One year",47.65,2906.65,10,3420.87,101178,False
+CUST0264,Male,Yes,Yes,Yes,Month-to-month,84.97,2973.95,6,1401.39,41124,False
+CUST0265,Male,No,No,Yes,"Two year",55.26,3536.64,8,2836.68,85644,False
+CUST0266,Female,No,Yes,No,"One year",48.63,1215.75,12,4848.45,113367,False
+CUST0267,Female,No,Yes,No,"Two year",76.49,1835.76,11,1950.12,68220,False
+CUST0268,Female,Yes,No,Yes,"One year",30.5,366,6,2232.36,49701,False
+CUST0269,Male,Yes,Yes,Yes,"One year",30.69,552.42,9,3566.4,78522,False
+CUST0270,Male,No,No,Yes,"One year",49.72,745.8,8,702.18,33918,False
+CUST0271,Female,No,No,Yes,Month-to-month,33.3,899.1,2,530.25,14322,False
+CUST0272,Female,No,No,Yes,Month-to-month,39.72,2383.2,4,721.38,34788,False
+CUST0273,Female,No,Yes,Yes,Month-to-month,60.5,2783,11,4569.33,103800,False
+CUST0274,Female,Yes,Yes,No,"Two year",102.23,1737.91,9,3304.59,88977,False
+CUST0275,Male,Yes,Yes,Yes,"Two year",81.48,4318.44,12,3918.72,113370,True
+CUST0276,Female,No,No,No,Month-to-month,76.14,609.12,9,2429.85,58161,False
+CUST0277,Male,No,Yes,No,"Two year",56.41,1523.07,8,3021.84,75357,False
+CUST0278,Female,Yes,Yes,Yes,"One year",113.86,5237.56,2,274.68,12510,False
+CUST0279,Male,Yes,Yes,No,"One year",65.73,3286.5,8,3082.65,84381,False
+CUST0280,Female,No,No,No,"One year",37.84,2686.64,12,2619.87,71418,False
+CUST0281,Female,No,No,No,Month-to-month,85.54,256.62,3,964.26,31032,False
+CUST0282,Female,No,Yes,No,"Two year",40.25,2576,7,2498.19,60891,False
+CUST0283,Female,Yes,Yes,No,Month-to-month,61.07,2687.08,4,803.37,28734,True
+CUST0284,Male,Yes,Yes,No,"Two year",75.67,4010.51,4,1425.99,49530,False
+CUST0285,Female,Yes,Yes,Yes,"One year",108.68,2608.32,2,504.75,15270,False
+CUST0286,Male,No,No,No,Month-to-month,74.42,4465.2,1,305.49,12939,True
+CUST0287,Male,No,No,No,"Two year",93.2,279.6,10,2694.81,68067,False
+CUST0288,Male,Yes,No,No,"Two year",119.35,2387,5,1859.91,50013,True
+CUST0289,Male,Yes,No,Yes,"One year",41.83,1924.18,12,1622.52,28962,False
+CUST0291,Male,Yes,Yes,Yes,Month-to-month,65.51,1637.75,10,2576.34,70530,True
+CUST0292,Male,Yes,Yes,No,Month-to-month,67.96,4825.16,5,1334.04,41856,False
+CUST0293,Male,No,No,Yes,"One year",66.99,1138.83,12,3010.44,69765,False
+CUST0294,Female,Yes,Yes,Yes,Month-to-month,111.68,1005.12,10,1509.57,29475,True
+CUST0295,Female,No,No,No,"One year",94.26,3581.88,11,4572.75,105111,False
+CUST0296,Female,No,No,No,"One year",84.71,4066.08,9,3633.21,95397,False
+CUST0297,Female,No,Yes,Yes,"One year",57.84,3470.4,9,3820.05,84021,False
+CUST0298,Male,No,Yes,No,"Two year",104.14,6560.82,10,3561.87,82080,False
+CUST0299,Male,No,Yes,Yes,Month-to-month,115.96,231.92,10,3766.77,115245,False
+CUST0300,Female,No,No,Yes,Month-to-month,103.91,1143.01,11,2976.51,81057,False
+CUST0301,Male,No,Yes,Yes,"One year",30.14,1928.96,8,2079.06,60141,False
+CUST0302,Male,Yes,No,Yes,"One year",87.28,1832.88,4,1230.36,26745,False
+CUST0303,Male,No,Yes,Yes,Month-to-month,34.6,622.8,12,4996.5,96690,True
+CUST0304,Female,No,No,No,"One year",53.18,3403.52,10,2485.86,72264,True
+CUST0305,Female,Yes,No,Yes,Month-to-month,35.36,1343.68,8,2246.61,55836,False
+CUST0306,Male,Yes,Yes,Yes,"Two year",84.34,2698.88,10,922.02,32697,True
+CUST0307,Female,Yes,No,No,"One year",91.79,1009.69,11,2434.14,61545,False
+CUST0308,Female,No,No,Yes,Month-to-month,40.3,1813.5,5,1813.14,42987,False
+CUST0309,Female,Yes,Yes,No,"One year",64.55,2130.15,6,2598.99,63336,False
+CUST0310,Female,No,No,No,Month-to-month,71.06,2913.46,6,1395.72,24792,False
+CUST0311,Female,No,Yes,No,Month-to-month,63.21,505.68,9,3385.83,84426,False
+CUST0312,Male,No,No,Yes,"One year",40.89,449.79,9,4060.08,89499,True
+CUST0313,Female,No,Yes,Yes,"Two year",67.71,3453.21,2,709.11,18780,False
+CUST0314,Male,Yes,Yes,Yes,Month-to-month,97.61,4002.01,10,1913.91,80280,False
+CUST0315,Male,Yes,No,No,Month-to-month,36.39,618.63,9,3629.85,97317,True
+CUST0316,Female,No,No,Yes,Month-to-month,37.22,1712.12,2,280.65,15198,False
+CUST0317,Male,No,No,No,"Two year",61.93,1981.76,8,986.28,23199,False
+CUST0318,Male,No,No,Yes,"Two year",114.76,6197.04,6,2637.48,40749,False
+CUST0319,Male,Yes,No,No,"One year",90.17,1803.4,12,2832,77421,True
+CUST0320,Female,No,Yes,Yes,"Two year",91.08,3005.64,11,3707.1,115371,False
+CUST0321,Female,No,No,Yes,"One year",62.57,2502.8,7,2692.59,73068,False
+CUST0322,Male,Yes,Yes,Yes,"One year",83.43,2669.76,4,883.83,23607,False
+CUST0323,Female,Yes,Yes,No,"Two year",30.91,61.82,1,206.67,5505,False
+CUST0324,Female,No,No,No,"One year",87.25,2879.25,12,1448.16,42162,False
+CUST0325,Female,Yes,Yes,Yes,"Two year",112.2,3366,6,1398.24,39588,False
+CUST0326,Female,Yes,Yes,Yes,"One year",85.13,2809.29,9,1248.06,26988,False
+CUST0327,Male,No,Yes,No,"Two year",108.63,2824.38,3,832.32,26193,False
+CUST0328,Male,Yes,Yes,No,"Two year",95.16,2093.52,4,1156.05,32544,False
+CUST0329,Female,No,No,No,"One year",40.85,2696.1,2,170.55,7047,False
+CUST0330,Female,Yes,Yes,Yes,Month-to-month,111.22,4226.36,8,1083.9,28656,False
+CUST0331,Male,No,No,No,"One year",35.98,1655.08,12,4329.84,107658,False
+CUST0332,Male,No,No,Yes,"Two year",78.06,1170.9,4,1845.93,36948,False
+CUST0333,Female,No,Yes,No,Month-to-month,42.79,1882.76,8,3017.28,81711,False
+CUST0334,Male,Yes,No,Yes,"One year",31.05,1521.45,3,411.72,14430,True
+CUST0335,Female,No,No,No,"One year",67.98,4146.78,8,2808.24,86445,False
+CUST0336,Female,Yes,No,No,"One year",56.55,3788.85,4,1172.76,42132,False
+CUST0337,Male,No,Yes,No,Month-to-month,73.74,442.44,9,3207.09,92061,False
+CUST0338,Male,No,No,No,"Two year",81.95,737.55,6,1722.33,64521,False
+CUST0339,Female,Yes,No,No,"One year",33.94,203.64,1,342.21,10458,True
+CUST0340,Female,No,No,Yes,"One year",41.07,1314.24,7,1726.05,31509,False
+CUST0341,Male,No,Yes,No,"One year",80.28,3291.48,7,2649.33,75084,False
+CUST0342,Female,Yes,No,No,"One year",60.89,487.12,10,2234.25,47949,True
+CUST0343,Male,No,Yes,No,"One year",95.63,4781.5,4,1869.99,33816,False
+CUST0344,Female,No,Yes,Yes,"Two year",88.71,5500.02,11,4818.42,91443,False
+CUST0345,Male,No,Yes,No,"Two year",106.1,6578.2,7,2481.99,43614,False
+CUST0346,Male,No,Yes,Yes,"One year",92.32,646.24,3,1034.73,24351,True
+CUST0347,Male,Yes,Yes,No,Month-to-month,68.69,274.76,12,4075.68,114555,True
+CUST0348,Female,Yes,Yes,No,"Two year",90.57,543.42,2,446.19,16476,False
+CUST0349,Female,No,No,Yes,Month-to-month,54.78,3177.24,4,566.07,15915,False
+CUST0350,Male,Yes,Yes,No,"Two year",57.57,1266.54,8,1981.26,61476,True
+CUST0351,Female,No,No,Yes,"One year",101.01,2626.26,1,426.15,11118,False
+CUST0352,Male,Yes,No,Yes,"Two year",70.18,210.54,4,1333.8,22482,False
+CUST0353,Male,No,Yes,No,"One year",101.85,4175.85,6,1168.83,25872,False
+CUST0354,Female,No,No,Yes,"Two year",104.02,6241.2,2,964.02,21435,False
+CUST0355,Female,No,No,No,"One year",107.18,1500.52,11,2942.34,71073,False
+CUST0356,Male,No,No,No,"One year",112.5,1350,7,2516.16,54279,True
+CUST0357,Female,No,No,Yes,"One year",68.79,825.48,6,2098.98,61035,True
+CUST0358,Female,No,Yes,Yes,"One year",58.7,763.1,6,2327.4,65865,True
+CUST0359,Male,Yes,No,Yes,Month-to-month,82.4,2060,4,1564.98,36306,False
+CUST0360,Male,No,Yes,Yes,"One year",63.41,2853.45,12,2510.79,78159,False
+CUST0361,Female,Yes,No,No,Month-to-month,84.1,1597.9,3,581.88,9402,False
+CUST0362,Male,No,No,No,Month-to-month,93.5,5142.5,12,4088.64,119691,True
+CUST0363,Male,Yes,Yes,Yes,"One year",91.96,4138.2,3,1474.08,32442,True
+CUST0364,Female,Yes,No,No,Month-to-month,63.71,509.68,5,1149.36,29463,False
+CUST0365,Male,Yes,No,No,"Two year",45.02,2386.06,9,2958.6,89451,True
+CUST0366,Male,No,No,No,"One year",68.75,3781.25,1,295.5,7659,False
+CUST0367,Female,No,Yes,No,Month-to-month,42.83,1370.56,12,2853.09,78279,True
+CUST0368,Female,Yes,No,Yes,"One year",110.11,5615.61,3,1440.6,29766,True
+CUST0369,Male,No,Yes,Yes,"One year",61.13,2689.72,2,943.5,19548,True
+CUST0370,Male,Yes,No,No,"One year",43.9,3073,8,1854,64809,False
+CUST0371,Female,No,Yes,Yes,Month-to-month,32.29,581.22,7,2811.36,62778,False
+CUST0372,Female,Yes,Yes,Yes,"Two year",88.12,1938.64,9,1847.91,55611,False
+CUST0373,Female,Yes,No,Yes,"Two year",87.32,3230.84,1,125.19,14649,False
+CUST0374,Female,No,No,No,Month-to-month,60.65,3396.4,12,4133.31,120312,True
+CUST0375,Male,Yes,Yes,No,"One year",36.45,2150.55,12,3085.8,70689,False
+CUST0376,Female,No,Yes,No,Month-to-month,66.87,200.61,10,2583.72,62712,False
+CUST0377,Female,Yes,No,Yes,Month-to-month,58.01,1624.28,2,427.95,25551,False
+CUST0378,Male,Yes,Yes,No,Month-to-month,90.94,3182.9,10,2175,65457,False
+CUST0379,Female,No,No,No,"One year",84.52,5155.72,5,2275.08,49884,True
+CUST0380,Male,No,No,Yes,Month-to-month,62.81,3391.74,11,2638.98,72498,True
+CUST0381,Female,No,No,No,"One year",49.61,3125.43,7,2635.62,55635,False
+CUST0382,Female,Yes,No,No,Month-to-month,118.92,832.44,4,1483.5,28215,False
+CUST0383,Female,No,Yes,Yes,"Two year",70.86,3472.14,10,4118.07,108600,False
+CUST0384,Male,Yes,No,Yes,Month-to-month,91.94,2850.14,12,2904.27,73947,False
+CUST0385,Male,Yes,Yes,Yes,Month-to-month,42.65,2473.7,5,1434.54,40830,False
+CUST0386,Female,No,No,No,"Two year",73.7,4495.7,11,4269.06,112344,False
+CUST0387,Male,No,Yes,No,"One year",32.48,779.52,3,507.51,22650,True
+CUST0388,Male,Yes,No,No,"One year",75.49,1509.8,3,1019.49,16797,False
+CUST0389,Male,Yes,Yes,Yes,Month-to-month,116.76,4320.12,10,2793.15,103221,False
+CUST0390,Male,No,Yes,Yes,"Two year",64.58,258.32,7,1710.24,44706,False
+CUST0391,Male,No,No,No,"One year",33.51,670.2,8,2379.27,48762,False
+CUST0392,Male,No,No,No,Month-to-month,32.79,1967.4,3,963.12,35943,False
+CUST0394,Female,No,No,Yes,"One year",44.4,2220,5,1734.93,48630,False
+CUST0395,Male,Yes,Yes,Yes,"One year",32.1,1572.9,3,618.63,17772,False
+CUST0396,Female,Yes,No,Yes,"Two year",98.06,5001.06,3,893.64,15462,False
+CUST0397,Female,Yes,Yes,No,"Two year",71.27,2565.72,1,160.2,5661,False
+CUST0398,Female,Yes,Yes,Yes,"Two year",56.03,3697.98,4,1535.73,45708,True
+CUST0399,Female,No,No,No,"Two year",111.01,3774.34,11,1445.19,39945,False
+CUST0400,Male,No,Yes,No,Month-to-month,40.45,1456.2,3,815.4,29388,True
+CUST0401,Female,No,Yes,No,"Two year",116.03,696.18,3,1028.94,28833,False
+CUST0402,Female,Yes,Yes,Yes,"One year",58.26,2272.14,9,2583.24,52668,False
+CUST0403,Male,Yes,Yes,Yes,"One year",109.96,4618.32,8,2590.14,70098,False
+CUST0404,Male,No,No,Yes,Month-to-month,84.26,4887.08,1,236.52,7896,True
+CUST0405,Female,No,No,Yes,"One year",104.4,1252.8,6,760.68,20718,False
+CUST0406,Female,Yes,No,No,"One year",118.56,355.68,9,2998.56,84102,False
+CUST0407,Female,Yes,No,Yes,"Two year",55.96,1007.28,8,3733.2,80823,False
+CUST0408,Female,No,Yes,Yes,"One year",116.5,4660,4,463.29,13359,False
+CUST0409,Female,No,Yes,No,Month-to-month,65.05,1366.05,4,1147.14,27174,False
+CUST0410,Female,Yes,No,Yes,"Two year",64.7,970.5,12,4520.49,114819,True
+CUST0411,Male,No,No,No,"Two year",60.63,1576.38,5,1278.99,32082,True
+CUST0412,Female,No,No,No,Month-to-month,78.73,629.84,4,1597.8,37194,False
+CUST0413,Female,No,Yes,No,"Two year",43.87,1842.54,5,1994.82,62568,False
+CUST0414,Male,Yes,No,No,"Two year",79.83,3512.52,6,2197.26,54075,False
+CUST0415,Male,Yes,No,No,Month-to-month,78.75,1102.5,9,2055.69,56862,False
+CUST0416,Male,Yes,No,No,"Two year",98.57,197.14,7,3127.23,72999,False
+CUST0417,Male,Yes,Yes,No,Month-to-month,105.03,3886.11,11,1894.68,24408,True
+CUST0418,Female,Yes,Yes,No,Month-to-month,69.64,4805.16,6,1353.3,31344,False
+CUST0419,Female,Yes,Yes,Yes,"One year",57.21,2173.98,12,3122.67,70497,True
+CUST0420,Female,Yes,Yes,Yes,"One year",53.34,2186.94,7,1585.56,40920,False
+CUST0421,Female,No,Yes,Yes,"Two year",47.52,2946.24,2,599.85,15033,True
+CUST0422,Female,No,Yes,Yes,"Two year",35.19,2111.4,10,3760.26,94872,True
+CUST0423,Female,No,Yes,No,Month-to-month,60.82,851.48,2,773.52,22509,False
+CUST0424,Male,No,Yes,Yes,"Two year",54.32,108.64,11,4238.58,106434,False
+CUST0425,Female,No,No,No,Month-to-month,116.98,8188.6,5,1395.96,19632,False
+CUST0426,Male,No,No,Yes,Month-to-month,80.19,1363.23,1,190.08,345,True
+CUST0427,Male,No,Yes,Yes,"Two year",61.25,1715,5,1328.07,30765,False
+CUST0428,Female,Yes,Yes,Yes,Month-to-month,82.24,5427.84,5,1468.23,36612,False
+CUST0429,Male,Yes,No,No,"One year",42.53,1488.55,7,2303.61,69006,False
+CUST0430,Female,No,Yes,Yes,"Two year",69.96,349.8,12,4445.07,111690,False
+CUST0431,Male,No,Yes,No,"One year",86.36,5613.4,2,209.31,8712,False
+CUST0432,Female,Yes,Yes,No,"Two year",74,2960,9,2548.2,43926,True
+CUST0433,Male,No,No,Yes,Month-to-month,66.16,3704.96,11,4400.31,114114,False
+CUST0434,Female,No,No,Yes,"Two year",119.45,4300.2,3,588.09,18681,False
+CUST0435,Female,Yes,No,Yes,"One year",109.23,4915.35,10,2028.54,63579,True
+CUST0436,Female,No,No,No,Month-to-month,86.11,1980.53,5,906.93,40524,False
+CUST0437,Female,Yes,No,Yes,"Two year",81.24,3818.28,2,456.36,10245,False
+CUST0438,Female,No,Yes,No,"Two year",85.86,2661.66,10,2113.32,62463,True
+CUST0439,Male,Yes,No,No,"Two year",48.12,529.32,10,3701.85,95799,False
+CUST0440,Male,Yes,Yes,Yes,"One year",65.56,655.6,4,672.99,24762,True
+CUST0441,Male,Yes,Yes,Yes,"One year",33.55,2247.85,11,4378.26,91116,False
+CUST0442,Female,No,No,No,"Two year",72.8,1019.2,5,1457.88,29271,False
+CUST0443,Male,Yes,No,No,Month-to-month,78.87,788.7,1,273.6,10605,True
+CUST0444,Female,No,Yes,No,Month-to-month,50.5,50.5,8,2795.01,84936,False
+CUST0445,Female,No,Yes,Yes,"One year",116.76,583.8,6,595.38,17463,True
+CUST0446,Male,No,Yes,No,Month-to-month,111.85,2237,9,3295.98,103881,True
+CUST0447,Male,No,No,Yes,"One year",94.99,759.92,4,1503.18,37533,True
+CUST0448,Female,Yes,No,No,"Two year",78,3354,3,1223.31,19893,False
+CUST0449,Male,Yes,No,No,"One year",108.3,108.3,8,1879.32,43794,False
+CUST0450,Female,No,No,Yes,"One year",41.76,2380.32,9,3524.01,76686,False
+CUST0451,Female,No,No,No,"Two year",101.15,6473.6,8,1804.11,49524,False
+CUST0452,Female,Yes,Yes,Yes,Month-to-month,41.23,1154.44,8,2089.47,40209,False
+CUST0453,Female,No,No,Yes,"One year",101.48,3754.76,7,754.44,24864,False
+CUST0454,Female,Yes,Yes,No,"One year",54.82,2576.54,4,1048.71,24897,False
+CUST0455,Male,No,Yes,Yes,"Two year",108.94,4030.78,1,486.03,8661,False
+CUST0456,Male,No,Yes,Yes,Month-to-month,114.96,5633.04,5,1915.56,49416,True
+CUST0457,Female,Yes,No,No,"One year",43.39,1909.16,4,391.35,11178,False
+CUST0458,Female,No,No,Yes,"Two year",71.64,4011.84,9,2399.4,58701,False
+CUST0459,Male,Yes,No,Yes,"One year",118.29,3312.12,10,2577.24,80370,False
+CUST0460,Male,No,Yes,Yes,"Two year",73.51,441.06,5,1191.54,41508,False
+CUST0461,Female,No,Yes,No,Month-to-month,107.72,6570.92,2,646.14,21762,False
+CUST0462,Male,No,Yes,Yes,Month-to-month,82.99,1659.8,8,2903.82,73557,True
+CUST0463,Female,Yes,Yes,No,Month-to-month,63.78,127.56,4,427.32,13920,False
+CUST0464,Male,No,Yes,No,Month-to-month,55.72,2061.64,10,3507.18,97641,False
+CUST0465,Female,No,Yes,Yes,"One year",48.29,965.8,12,1527.63,36705,True
+CUST0466,Male,No,No,Yes,"One year",98.56,2562.56,9,1915.77,56733,False
+CUST0467,Female,No,No,Yes,Month-to-month,64.79,1878.91,1,370.02,10923,False
+CUST0468,Male,Yes,No,No,Month-to-month,76.01,76.01,9,2261.52,52755,False
+CUST0469,Male,Yes,No,Yes,Month-to-month,74.31,2600.85,1,285.96,10374,False
+CUST0470,Female,No,Yes,Yes,"One year",81.96,5737.2,10,3233.52,100380,False
+CUST0471,Male,Yes,Yes,Yes,Month-to-month,107.9,6366.1,10,3011.82,83169,False
+CUST0472,Female,No,No,Yes,Month-to-month,118.27,8160.63,6,1085.01,42261,False
+CUST0473,Male,No,Yes,Yes,Month-to-month,66.68,2200.44,7,2527.92,76791,False
+CUST0474,Female,No,No,No,"Two year",104.48,5328.48,5,1849.89,62706,False
+CUST0475,Male,Yes,No,No,Month-to-month,98.81,1185.72,10,2835.96,65394,True
+CUST0476,Female,Yes,No,Yes,"Two year",81.62,1632.4,1,202.23,4812,True
+CUST0477,Male,Yes,Yes,Yes,"Two year",116.04,6150.12,12,1444.08,38487,True
+CUST0478,Female,Yes,No,Yes,Month-to-month,48.04,2065.72,11,4097.07,95220,False
+CUST0479,Male,Yes,No,Yes,"Two year",39.83,1991.5,10,3507.6,99792,False
+CUST0480,Female,Yes,No,No,Month-to-month,106.86,3098.94,4,1555.59,29979,False
+CUST0481,Female,Yes,Yes,Yes,"One year",69.52,3962.64,5,1788.09,32241,False
+CUST0482,Female,Yes,Yes,No,"One year",106.23,4142.97,7,1696.71,47415,True
+CUST0483,Male,Yes,No,No,"One year",110.38,6181.28,2,535.53,7353,True
+CUST0484,Female,No,Yes,Yes,"One year",35.62,1531.66,1,319.56,7317,True
+CUST0485,Male,Yes,Yes,No,"Two year",109.51,5475.5,10,1167.09,24306,False
+CUST0486,Female,Yes,Yes,No,Month-to-month,70.35,1618.05,3,982.92,20889,True
+CUST0487,Male,Yes,Yes,No,Month-to-month,75.94,3341.36,11,2775.48,62109,False
+CUST0488,Female,Yes,Yes,No,Month-to-month,86.39,3282.82,3,897.24,21156,False
+CUST0489,Male,Yes,Yes,Yes,"One year",113.37,2607.51,4,1471.32,39348,False
+CUST0490,Male,Yes,Yes,Yes,"One year",31.72,1427.4,8,2623.65,85215,False
+CUST0491,Female,Yes,Yes,No,Month-to-month,72.92,3791.84,10,3903.09,115992,False
+CUST0492,Male,Yes,Yes,Yes,"One year",91.89,4594.5,1,350.04,5886,True
+CUST0493,Male,Yes,Yes,Yes,Month-to-month,95.04,760.32,9,3432.99,86052,False
+CUST0494,Female,Yes,No,Yes,Month-to-month,92.33,92.33,7,2431.86,65652,True
+CUST0495,Male,Yes,No,Yes,Month-to-month,42.1,336.8,4,1469.91,42096,True
+CUST0496,Male,No,Yes,Yes,Month-to-month,56.95,1651.55,7,2775.12,71685,False
+CUST0497,Male,No,No,No,Month-to-month,62.28,311.4,8,605.04,28785,True
+CUST0498,Female,Yes,No,Yes,Month-to-month,102.4,4812.8,2,644.91,17355,False
+CUST0499,Male,Yes,Yes,Yes,Month-to-month,55.09,1873.06,11,2493.03,69987,True
+CUST0500,Female,No,Yes,Yes,"One year",48.96,3182.4,4,730.65,28236,False

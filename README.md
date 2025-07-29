@@ -54,27 +54,50 @@ Based on the Insigts generated through Exploratory Data Analysis (EDA) Created K
 - The Dashboard contains different Kpi's that help us to convey our insights more crisp and cearly.
 - It contains different Customer demograpic visuals to convey the message. Below is the Screenshort of the Dashboard and Tableau file where you can check the direct impact throug filters.
 
+![Dashboard](https://github.com/Danish-ud/Customer-Churn-Overview/blob/main/Customer%20Churn%20Dashboard.png)
 ---
 
 ##  Key Insights
 
-- Month-to-month contract customers have the highest churn rate.
-- Customers with lower monthly charges tend to churn more.
-- GB usage distribution shows underutilization of services.
-- Slightly higher churn among senior citizens and those with partners.
-- Customers who use more services are more likely to churn.
+- The Current Churn Rate of the telecom company is around 24% which higher, neccesary steps should be taken to control the churning customers.
+- From The above Dashboard we can clearly see that around 1/4 th of the total customers have churned.
+- The monthly churn rate line graph shows that January and December are peak months for churning customers.
+- Overall Churn Rate of males is higher than the Churn Rate of Females.
+- While in histogram We can clearly see the underutilization of resoursces.
+- Customers with mont to month plan are more likey to churn.
+- Partner and Senior Citizen also plays a crucial factor among churning customers.
+  
 
 ---
 
 ##  Recommendations
 
-- Promote long-term contracts (1-year / 2-year) with incentives.
-- Target low-usage customers with personalized engagement or offers.
-- Focus on improving service quality for high-usage customers.
-- Design campaigns for senior citizens to increase stickiness.
+Based on the churn analysis and key business insights drawn from the data, the following actionable strategies are recommended to help reduce customer churn and improve retention:
 
+### 1. Encourage Long-Term Contracts :
+Customers on month-to-month plans exhibit significantly higher churn.
+Recommendation:
+- Offer discounts, cashback, or exclusive features for customers switching to 1-year or 2-year contracts.
+- Introduce auto-renewal benefits or loyalty points for long-term users.
+### 2. Preemptive Retention During High-Risk Months
+Churn peaks during December and January.
+Recommendation:
+- Launch targeted retention campaigns during Q4 and early Q1.
+
+- Provide holiday or new year incentives, including data bonuses, plan upgrades, or limited-time offers
+### 3. Address Underutilization of Services
+Histogram plots reveal many customers are not using their full GB or call allowances.
+Recommendation:
+- Segment and offer personalized, lower-tier plans to low-usage users.
+- Educate customers about plan benefits to increase engagement and satisfaction
+### 4. Focus on Senior Citizens & Partnered Customers
+Churn is slightly higher among senior citizens and customers with partners.
+Recommendation:
+- Design senior-friendly plans with simplified services and exclusive support.
+- Introduce family or couple plans to boost retention among partnered users.
+### 5. 👨‍💼 Understand and Act on Gender-Based Trends
+Churn rate is higher among male customers.
+Recommendation:
+- Conduct customer interviews or surveys to identify potential service gaps.
+- Run gender-focused marketing or engagement initiatives to address specific concerns.
 ---
-
-## 📌 Project Folder Structure
-
-# Customer-Churn-Overview
